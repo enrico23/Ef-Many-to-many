@@ -1,0 +1,65 @@
+﻿@model Mvc5Basic.Models.Post
+
+@{
+    ViewBag.Title = "Details";
+   
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Post</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            Categories
+        </dt>
+        <dd>
+
+            <table>
+            <tr>
+                @{
+                    int cnt = 0;
+                    List<Mvc5Basic.ViewModels.AssignedCategoryViewModel> categories = ViewBag.Categories;
+
+                    foreach (var item in categories)
+                    {
+                        if (cnt++ % 3 == 0)
+                        {
+                            @:</tr><tr>
+                        }
+                        @:<td>
+                            <input type="checkbox"
+                               name="selectedCourses"
+                               value="@item.CategoryId"
+                               @(Html.Raw(item.Assigned ? "checked=\"checked\"" : "")) />
+                               @item.CategoryId @:  @item.Name
+                        @:</td>
+                    }
+                    @:</tr>
+                }
+        </table>
+
+
+
+
+        </dd>
+    </dl>
+    
+
+
+
+    
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PostId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+    </div>

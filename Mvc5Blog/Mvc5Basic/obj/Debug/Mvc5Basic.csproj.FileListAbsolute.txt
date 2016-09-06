@@ -1,0 +1,48 @@
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\Mvc5Basic.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\Mvc5Basic.pdb
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\EntityFramework.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\EntityFramework.SqlServer.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Helpers.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Mvc.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Razor.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Webpages.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Webpages.Razor.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\EntityFramework.xml
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\EntityFramework.SqlServer.xml
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Razor.xml
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Webpages.xml
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Webpages.Razor.xml
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Helpers.xml
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\bin\System.Web.Mvc.xml
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\obj\Debug\Mvc5Basic.Migrations.Initial.resources
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\obj\Debug\Mvc5Basic.csproj.GenerateResource.Cache
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\obj\Debug\Mvc5Basic.dll
+C:\Users\eacampora\documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\obj\Debug\Mvc5Basic.pdb
+C:\Users\eacampora\Documents\visual studio 2012\Projects\Mvc5Basic\Mvc5Basic\obj\Debug\Mvc5Basic.csprojResolveAssemblyReference.cache
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\Mvc5Basic.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\Mvc5Basic.pdb
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\EntityFramework.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\EntityFramework.SqlServer.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Helpers.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Mvc.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Razor.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Webpages.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Webpages.Razor.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\EntityFramework.xml
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\EntityFramework.SqlServer.xml
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Razor.xml
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Webpages.xml
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Webpages.Razor.xml
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Helpers.xml
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\bin\System.Web.Mvc.xml
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\obj\Debug\Mvc5Basic.csprojResolveAssemblyReference.cache
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\obj\Debug\Mvc5Basic.Migrations.Initial.resources
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\obj\Debug\Mvc5Basic.csproj.GenerateResource.Cache
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\obj\Debug\Mvc5Basic.dll
+C:\Users\eacampora\Desktop\code library\AspNet MVC\EF many to many\Mvc5Blog\Mvc5Basic\obj\Debug\Mvc5Basic.pdb
